@@ -1,7 +1,5 @@
 # Mihir A.I - Voice Assistant
 
-![Project Logo](https://github.com/kiran7rawat/AI-Voice-Assistance)/blob/main/Mihir_Bot.jpg)
-
 ## Overview
 
 Mihir A.I is a Python-based voice assistant that integrates various functionalities, including speech recognition, natural language processing with OpenAI's GPT-3, web browsing, and task automation. The assistant enables users to interact through voice commands and responds using both pre-defined actions and intelligent chat capabilities.
