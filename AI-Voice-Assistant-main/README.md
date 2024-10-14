@@ -1,6 +1,6 @@
 # Mihir A.I - Voice Assistant
 
-![Project Logo](https://github.com/AdityaSrivastavDS/AI-Voice-Assistant/blob/main/Mihir_Bot.jpg)
+![Project Logo](https://github.com/kiran7rawat/AI-Voice-Assistance)/blob/main/Mihir_Bot.jpg)
 
 ## Overview
 
